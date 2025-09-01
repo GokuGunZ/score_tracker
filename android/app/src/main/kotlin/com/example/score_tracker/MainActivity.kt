@@ -1,4 +1,4 @@
-package com.example.score_tracker
+package com.gokugunz.score_tracker
 
 import io.flutter.embedding.android.FlutterActivity
 

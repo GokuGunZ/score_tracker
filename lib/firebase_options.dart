@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '736344214600',
     projectId: 'score-tracker-ac',
     storageBucket: 'score-tracker-ac.firebasestorage.app',
-    iosBundleId: 'com.example.scoreTracker',
+    iosBundleId: 'com.gokugunz.scoreTracker',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(

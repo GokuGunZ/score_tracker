@@ -93,7 +93,7 @@ BEGIN
             VALUE "FileDescription", "score_tracker" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "com.gokugunz.score_tracker" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.gokugunz. All rights reserved." "\0"
             VALUE "OriginalFilename", "score_tracker.exe" "\0"
             VALUE "ProductName", "score_tracker" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
